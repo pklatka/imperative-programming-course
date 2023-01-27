@@ -1,0 +1,12 @@
+3
+1
+To jest wiersz 1,
+a to drugi.
+Trzeciego nie ma.
+
+
+2
+3
+2 3. 1e-1 -5
+1 2 3
+0 -5
