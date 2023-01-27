@@ -1,3 +1,3 @@
 # Imperative programming course
 
-This repository consits of solutions for Imperative programming lab classes at AGH UST, written in C lanugage. Code was written in English, but task descriptions are in Polish. If this repository helped you, don't forget to star ⭐️ or fork 🤪.
+This repository consits of solutions, written in C language, for imperative programming course at AGH UST. Code was written in English, but task descriptions are in Polish. If this repository helped you, don't forget to star ⭐️ or fork 🤪.
